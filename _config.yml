@@ -4,6 +4,6 @@ pygments: true
 
 markdown: rdiscount
 
-production_url : http://devblog.croquis.com
+production_url : http://LeeJunGyon.github.io
 
-tags_path: /tags.html
+tags_path: /main.html
